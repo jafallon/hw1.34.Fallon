@@ -26,5 +26,7 @@ The elevator I located had a display on the top of the elevator that told the oc
 What are some common mistakes you can make with this current design?
 Some common mistakes that can be made with the current design include pressing the wrong direction upon entering the elevator as the exterior interface is not clearly labeled. Also, the user may click on the wrong door (Front or back) if they don’t have the prior knowledge of which side is which. 
 
+![Sketch](https://user-images.githubusercontent.com/45009373/65355880-9dd5a300-dbb8-11e9-96a7-4acdf286bf0f.jpg)
+
 Interface:
 https://github.com/jafallon/hw1.34.Fallon/tree/gh-pages/Elevator_Interface
